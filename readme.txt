@@ -1,7 +1,4 @@
 git is a version control system
 git is free!
 come on
-hi
-hello
-kk
-patient
+hello	
